@@ -45,7 +45,7 @@ Boxicons - Google Fonts - Popper.js
 
 ## 👀 Website Preview:
 <a href="https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/" title="demo">
-  <img src="https://github.com/user-attachments/assets/0378adfa-f569-4060-8613-fc588bce62cc" alt="website preview - UI Mockup" width="400">
+  <img src="https://github.com/user-attachments/assets/073b9bbb-7d51-4ed8-8179-c3e605f40ec5" alt="website preview - UI Mockup" width="400">
 </a>
 
 <hr>
