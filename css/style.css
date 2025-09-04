@@ -198,7 +198,8 @@ a {
 
 /* Landing Section */
 #landing {
-    height: 400px;
+    /* height: 400px; */
+    height: calc(100svh - 65px);
     background: no-repeat url('../images/home-bg.jpg'); 
     background-size: cover;
     background-attachment: fixed;
