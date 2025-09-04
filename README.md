@@ -1,15 +1,31 @@
 # Online Blog [Modern and Responsive Blog]:
 Online Blog is a modern and responsive blog theme designed for an enhanced reading experience. Utilizing HTML5, CSS3, Bootstrap, and JavaScript, this theme offers a sleek, adaptable design that performs well on all devices. Perfect for bloggers and developers who want a sophisticated and functional online presence.
 
-<br>
+<hr>
 
-➲ **Used Technologies:**&nbsp; HTML/HTML5 - CSS/CSS3 - JavaScript - Git - Bootstrap
-<br>
-➲ **Used Libraries / SDK:**&nbsp; Boxicons - Google Fonts - Popper.js
-<br><br>
-➲ **Demo (Live Preview):** <a href="https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/" target="_blank">https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/</a> 
+### 💻 **Used Technologies:**
 
-<br>
+- HTML/HTML5
+- CSS/CSS3
+- JavaScript
+- Git
+- Bootstrap
+- **Used Libraries / SDK:** <br>
+Boxicons - Google Fonts - Popper.js
+
+<hr>
+
+### 🌐 **Demo (Live Preview):** 
+
+**Live Site:** <a href="https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/" target="_blank">https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/</a> 
+
+
+<hr>
+
+### 🎥 **Watch Video on LinkedIn:** 
+**Watch Preview Video:** <a href="" target="_blank">coming soon</a> 
+
+<hr>
 
 ## Key Features:
 - <b>Modern Design:</b> Clean and contemporary aesthetics for a fresh and engaging user experience.
@@ -24,3 +40,25 @@ Online Blog is a modern and responsive blog theme designed for an enhanced readi
 - <b>Cross-Browser Compatibility:</b> Ensures consistent performance across all major web browsers.
 - <b>Performance Optimized:</b> Designed with performance in mind for fast loading times and smooth operation.
 - <b>Easy Navigation:</b> Intuitive navigation for a seamless browsing experience through the website.
+
+<hr>
+
+## 👀 Website Preview:
+<a href="https://ahmed-maher77.github.io/Online-Blog__Modern-and-Responsive-Blog/" title="demo">
+  <img src="https://github.com/user-attachments/assets/0378adfa-f569-4060-8613-fc588bce62cc" alt="website preview - UI Mockup" width="400">
+</a>
+
+<hr>
+
+## 📬 Contact & Contribution
+- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
+- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
+
+> Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or inspiring, please consider giving it a ⭐. Your support helps me grow and share more open-source projects like this!
